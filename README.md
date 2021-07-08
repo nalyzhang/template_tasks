@@ -11,7 +11,6 @@
   * Выберите New > Project from Version Control... > Git
   * Укажите ссылку на репозиторий: `https://github.com/academy-project-programming/**название**`
   * Войдите в ваш аккаунт GitHub, чтобы работать с приватным репозиторием
-  * Введите в терминал `git remote add template https://github.com/academy-project-programming/all-tasks`
 3. Как работать с репозиторием?
   * Внесите изменения в файлы (напишите решения к задачам или реализации)
   * Создайте **коммит** (`Commit...`)
