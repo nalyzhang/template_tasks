@@ -1,4 +1,4 @@
 git stash
-git fetch --all
-REM git pull template master --rebase --allow-unrelated-histories
+REM git fetch --all
+git pull template master -s recursive -X theirs --rebase --allow-unrelated-histories
 git stash pop
