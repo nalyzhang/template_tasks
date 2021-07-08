@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="UPDATE" type="ShConfigurationType" activateToolWindowBeforeRun="false" singleton="false">
+  <configuration default="false" name="UPDATE" type="ShConfigurationType" activateToolWindowBeforeRun="false">
     <option name="SCRIPT_PATH" value="$PROJECT_DIR$/UPDATE.bat" />
     <option name="SCRIPT_OPTIONS" value="" />
     <option name="INTERPRETER_PATH" value="" />
