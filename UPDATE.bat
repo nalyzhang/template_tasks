@@ -1,0 +1,1 @@
+git pull template master --rebase --allow-unrelated-histories
